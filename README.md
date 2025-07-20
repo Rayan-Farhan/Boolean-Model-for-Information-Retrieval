@@ -7,7 +7,7 @@ This project implements a Boolean Information Retrieval model with support for s
 - Text preprocessing using NLTK (tokenization, stemming, stopword removal)
 - Inverted index construction for Boolean queries
 - Positional index construction for proximity queries
-- Boolean query support (AND, OR, NOT)
+- Boolean query support (AND, OR, & NOT)
 - Proximity query support with distance operator
 - GUI interface built with Tkinter
 
